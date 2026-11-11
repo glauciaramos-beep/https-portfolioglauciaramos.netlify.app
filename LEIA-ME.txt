@@ -1,0 +1,26 @@
+PORTFÓLIO DE GLAUCIA RAMOS
+
+ARQUIVOS
+- index.html: versão pública, sem ferramentas de edição.
+- editor.html: versão para personalizar e salvar o site.
+- fonts/: instruções para adicionar a tipografia Ghang.
+
+EDITAR E PUBLICAR
+1. Abra editor.html no navegador.
+2. Clique em “Editar elementos” e selecione textos, imagens ou elementos da página.
+3. Para trocar a grande imagem da tela inicial, use “Imagem da tela inicial”. Ela ocupa todo o banner retangular; o título e o botão ficam sobre a arte.
+4. Use “＋ Imagem” para adicionar PNGs e outros elementos visuais. Selecione e arraste para posicionar; os controles de camada ajustam o que fica à frente.
+5. Ctrl+Z desfaz a última alteração e Ctrl+Y (ou Ctrl+Shift+Z) refaz. Dentro de um texto em edição, o navegador desfaz a digitação normalmente.
+6. Clique em “Salvar” para guardar as alterações neste navegador. “Gerar site para publicar” baixa um index.html público sem a barra do editor.
+7. Guarde editor.html para continuar editando em outra ocasião.
+
+A tela inicial usa um banner horizontal amplo com enfeites distribuídos nas bordas e uma bonequinha ilustrada de corpo inteiro. A mesma personagem aparece no quadro visual da página Início; ela tem cabelo e olhos pretos. O texto central permanece legível sobre a imagem enviada.
+
+TIPOGRAFIA
+O nome usa Ghang quando o arquivo licenciado está instalado. A fonte não foi incluída porque a versão gratuita do DaFont tem licença pessoal. Adicione uma cópia licenciada em fonts/Ghang.ttf ou carregue uma fonte no painel do editor. O subtítulo usa uma fonte sem serifa.
+
+CONTATO
+O formulário abre o aplicativo de e-mail já preenchido para gr.rdesigner.grafico@gmail.com. Para enviar mensagens sem depender do aplicativo de e-mail do visitante, conecte o formulário a um serviço de envio.
+
+PORTFÓLIO EM PDF
+Na aba Portfólio, escolha “Todos” ou uma categoria. A página de impressão pode ser salva como PDF pelo navegador.
